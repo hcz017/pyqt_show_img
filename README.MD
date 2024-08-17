@@ -12,7 +12,7 @@
 
 ## 1.2 使用 pyqtgraph 控件显示图片
 
-参考来源 [【PyQtGraph】显示图像](https://blog.csdn.net/zhy29563/article/details/119754910)
+参考来源 [【PyQtGraph】显示图像](https://blog.csdn.net/zhy29563/article/details/119754910)  
 特点 可以对图片进行缩放操作，继承了pyqtgraph 的一些特点功能。
 
 ![](https://codesimple-blog-images.oss-cn-hangzhou.aliyuncs.com/python/_image/pyqt_img_pyqtgraph.gif)
