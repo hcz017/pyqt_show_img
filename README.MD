@@ -44,12 +44,12 @@
 源码：[scrollArea_gridLayout.py](./scrollArea_gridLayout.py)
 
 
-## 2.3 使用 QListWidget + 自定义的 QListWidgetItem 显示多张图片
+## 2.3 使用 listWidget + 自定义的 listWidgetItem 显示多张图片
 
 可以缩放窗口，图像可以随着窗口重新排列，自定义的QListWidgetItem 可以灵活自定义显示样式。
 代码参考这两个博客 [PyQt使用笔记(六) 可多选, 有右键复制删除功能的ListWidget 2021.03.23](https://blog.csdn.net/qq_17246289/article/details/115135699) 和 [[pyqt] 使用自定义QListWidgetItem](https://blog.csdn.net/Strengthennn/article/details/103747819)
 
 ![](https://codesimple-blog-images.oss-cn-hangzhou.aliyuncs.com/python/_image/pyqt_img_QListWidget.gif)
 
-源码：[QListWidgetCusQListWidgetItem.py](./QListWidgetCusQListWidgetItem.py)
+源码：[listWidget_listWidgetItem.py](./listWidget_listWidgetItem.py)
 
